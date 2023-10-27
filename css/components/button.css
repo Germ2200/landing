@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #1400FF;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+1400FF bleu foncé
+
+2ECCDD bleu clair
+
+these colors are the same I used in my Figma project.
+
+!   <a href="#"class="btn-blue">Let's swim</a>
